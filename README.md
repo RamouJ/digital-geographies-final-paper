@@ -3,18 +3,18 @@
 ## Introduction to AEMP
 
 The digital-geography project I will be discussing in this paper, is an interactive web map produced by the **Anti-Eviction Mapping Project**, which is a digital cartography collective documenting gentrification struggles and creating tools for resistance (Anti-Eviction Mapping Project). The project is comprised of volunteers who study and visualize racial capitalism, techno-capitalism, political economy, and tools for resistance. They are also partnered with over 30 non-profit organizations that are all working to improve race relations and equity in the United States. This web map, picture below, is titled *“Killings by Oakland PD 1968-2020”*
-![Screenshot of web map][/img/dashboard.JPG]
+![Screenshot of web map](/img/dashboard.JPG)
 
 ## Web Map Description
 The goal of this project is to visualize the number of documented killings by Oakland Police since 1968. The dashboard is comprised of a map, a legend, a credit box, and several summary statistics displaying the data by race and neighborhood. The map is very simplistic, only highlighting a few major streets, cities, and landmarks. It contains different colored markers with animations signifying the location of the killings, and polygons shaded based on the murder rate. The markers also display pop-ups of information about the victim when clicked on, and details about the incident when hovered over. The legend displays the key for the colors of each marker, and a scale with a color ramp for the number of neighborhoods by murder. 
-![Screenshot of web map legend][/img/legend.JPG]
+![Screenshot of web map legend](/img/legend.JPG)
 
 The timeline below the map displays a bar chart for the number of killings each year since 1968 based on the number of markers present on the map, so this chart changes as you adjust the viewing window of the map.
-![Screenshot of timeline on web map][/img/timeline.JPG]
+![Screenshot of timeline on web map](/img/timeline.JPG)
 
 The final components of the dashboard are two functions that allow you to filter and view the data by race, and neighborhood. As well as a credit box that credits the authors of the software and data used to produce the map, and buttons to adjust the viewing area of the map. 
-![Screenshot of filters on web map][/img/filters.JPG] 
-![Screenshot of credit bar on web map][/img/scale_bar.JPG]
+![Screenshot of filters on web map](/img/filters.JPG) 
+![Screenshot of credit bar on web map](/img/scale_bar.JPG)
 
 ## Intended Audience
 Overall, these elements of the web map allow the user to make conclusions based on mainly race and geographic location. The intended users of this map are those seeking information about police violence in Oakland, or California as a whole. High school students, college students. Politicians, and anyone who can read a map could use this project to visualize officer-involved killings in a number of ways.
@@ -49,7 +49,7 @@ The Anti-Eviction Mapping Project(AEMP) mainly focuses on housing inequalities, 
 > “believe in a narrative oral history and video work centers that work to rectify the displacement of people and complex social worlds, but also modes of resistance. Maintaining antiracist and feminist analyses as well as decolonial methodology, the project creates tools and disseminates data contributing to collective resistance and movement building” (Anti-Eviction Mapping Project). 
 Every map the project produces is either politically, socially, or economically motivated. For example, the map I looked at addressed violence against black and brown bodies in Los Angeles’s urban ghettos at the hands of law enforcement officers. Another map I considered analyzing depicted the number of evictions in San Francisco since 1994 as a result of the Elis Act. 
 
-![Map of Ellis evictions][/img/ellis.JPG]
+![Map of Ellis evictions](/img/ellis.JPG)
 
 This map focuses on housing discrimination and gentrification of urban areas where predominantly black, brown, and poor people are exploited for their lucrative residences. The mission of the AEMP is to map these scenarios where they see trends in exclusion and dispelling of black and brown people. This is necessary because the corporations at the root of gentrification tend to produce maps of their developments that neglect to display the colonial-like efforts it took to build their construction sites. The AEMP adds, 
 > “while real estate companies may distribute their maps depicting renamed and whitewashed neighborhoods, our maps hold the stories of long-time residents who hold decades of memory, including all of the old names” (Anti-Eviction Mapping Project). 
